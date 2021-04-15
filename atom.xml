@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://koyosho.github.io</id>
     <title>想 | X</title>
-    <updated>2021-04-15T08:06:56.687Z</updated>
+    <updated>2021-04-15T08:18:24.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://koyosho.github.io"/>
     <link rel="self" href="https://koyosho.github.io/atom.xml"/>
@@ -33,13 +33,13 @@
         <id>https://koyosho.github.io/post/bi-ji-or-ji-zhu-fu-zhi-yu-yi-zhu-de-guang-yun/</id>
         <link href="https://koyosho.github.io/post/bi-ji-or-ji-zhu-fu-zhi-yu-yi-zhu-de-guang-yun/">
         </link>
-        <updated>2019-11-03T14:02:22.000Z</updated>
+        <updated>2019-11-03T15:02:22.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to use tages]]></title>
         <id>https://koyosho.github.io/post/how-to-use-tages/</id>
         <link href="https://koyosho.github.io/post/how-to-use-tages/">
         </link>
-        <updated>1999-12-31T20:03:29.000Z</updated>
+        <updated>1999-12-31T21:03:29.000Z</updated>
     </entry>
 </feed>
