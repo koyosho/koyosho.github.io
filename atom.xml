@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://koyosho.github.io</id>
-    <title>x+ | 未知数</title>
-    <updated>2021-02-24T03:46:45.287Z</updated>
+    <title>想 | X</title>
+    <updated>2021-04-15T08:06:56.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://koyosho.github.io"/>
     <link rel="self" href="https://koyosho.github.io/atom.xml"/>
-    <subtitle>Thanks for you</subtitle>
+    <subtitle>Someone is thinking.</subtitle>
     <logo>https://koyosho.github.io/images/avatar.png</logo>
     <icon>https://koyosho.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, x+ | 未知数</rights>
+    <rights>All rights reserved 2021, 想 | X</rights>
     <entry>
-        <title type="html"><![CDATA[Hello, welcome to my space.]]></title>
-        <id>https://koyosho.github.io/post/hello-welcome-to-my-space/</id>
-        <link href="https://koyosho.github.io/post/hello-welcome-to-my-space/">
+        <title type="html"><![CDATA[INTRO]]></title>
+        <id>https://koyosho.github.io/post/intro/</id>
+        <link href="https://koyosho.github.io/post/intro/">
         </link>
-        <updated>2021-02-24T03:38:16.000Z</updated>
-        <content type="html"><![CDATA[<p>Emmmm</p>
+        <updated>2021-02-13T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hello, Thanks for your finding here. I'm Shawn Huang. Currently studying urban planning in Tokyo. I will upload some of my learning, photography, or other ideas here. Chinese maybe the main language, but sometimes English and Japanese will also be used. If you have any ideas about the world, please contact me through：<a href="mailto:space@pku.org.cn">space@pku.org.cn</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Hello, Thanks for your finding here. I'm Shawn Huang. Currently studying urban planning in Tokyo. I will upload some of my learning, photography, or other ideas here. Chinese maybe the main language, but sometimes English and Japanese will also be used. If you have any ideas about the world, please contact me through：<a href="mailto:space@pku.org.cn">space@pku.org.cn</a></p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杂文 | 阵雨]]></title>
+        <id>https://koyosho.github.io/post/za-wen-or-yu/</id>
+        <link href="https://koyosho.github.io/post/za-wen-or-yu/">
+        </link>
+        <updated>2020-03-14T16:24:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读 | 技术复制与艺术的光晕]]></title>
+        <id>https://koyosho.github.io/post/bi-ji-or-ji-zhu-fu-zhi-yu-yi-zhu-de-guang-yun/</id>
+        <link href="https://koyosho.github.io/post/bi-ji-or-ji-zhu-fu-zhi-yu-yi-zhu-de-guang-yun/">
+        </link>
+        <updated>2019-11-03T14:02:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use tages]]></title>
+        <id>https://koyosho.github.io/post/how-to-use-tages/</id>
+        <link href="https://koyosho.github.io/post/how-to-use-tages/">
+        </link>
+        <updated>1999-12-31T20:03:29.000Z</updated>
     </entry>
 </feed>
