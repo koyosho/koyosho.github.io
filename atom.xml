@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://koyosho.github.io</id>
-    <title>想 | X</title>
-    <updated>2021-04-15T08:18:24.668Z</updated>
+    <title>空间诗学Xeminar</title>
+    <updated>2021-06-23T05:05:18.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://koyosho.github.io"/>
     <link rel="self" href="https://koyosho.github.io/atom.xml"/>
     <subtitle>Someone is thinking.</subtitle>
     <logo>https://koyosho.github.io/images/avatar.png</logo>
     <icon>https://koyosho.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 想 | X</rights>
+    <rights>All rights reserved 2021, 空间诗学Xeminar</rights>
     <entry>
         <title type="html"><![CDATA[INTRO]]></title>
         <id>https://koyosho.github.io/post/intro/</id>
@@ -22,18 +22,11 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杂文 | 阵雨]]></title>
-        <id>https://koyosho.github.io/post/za-wen-or-yu/</id>
-        <link href="https://koyosho.github.io/post/za-wen-or-yu/">
-        </link>
-        <updated>2020-03-14T16:24:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阅读 | 技术复制与艺术的光晕]]></title>
+        <title type="html"><![CDATA[技术复制与艺术的光晕]]></title>
         <id>https://koyosho.github.io/post/bi-ji-or-ji-zhu-fu-zhi-yu-yi-zhu-de-guang-yun/</id>
         <link href="https://koyosho.github.io/post/bi-ji-or-ji-zhu-fu-zhi-yu-yi-zhu-de-guang-yun/">
         </link>
-        <updated>2019-11-03T15:02:22.000Z</updated>
+        <updated>2019-11-03T16:02:22.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to use tages]]></title>
