@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://koyosho.github.io</id>
     <title>空间诗学Xeminar</title>
-    <updated>2021-06-23T05:05:18.797Z</updated>
+    <updated>2021-06-23T05:09:59.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://koyosho.github.io"/>
     <link rel="self" href="https://koyosho.github.io/atom.xml"/>
@@ -15,10 +15,10 @@
         <id>https://koyosho.github.io/post/intro/</id>
         <link href="https://koyosho.github.io/post/intro/">
         </link>
-        <updated>2021-02-13T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Hello, Thanks for your finding here. I'm Shawn Huang. Currently studying urban planning in Tokyo. I will upload some of my learning, photography, or other ideas here. Chinese maybe the main language, but sometimes English and Japanese will also be used. If you have any ideas about the world, please contact me through：<a href="mailto:space@pku.org.cn">space@pku.org.cn</a></p>
+        <updated>2021-02-13T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hello, Thanks for your finding here. I'm Shawn Huang, studying urban planning in Tokyo. I will upload some of my learning, photography, or other ideas here. Chinese maybe the main language, but I will also try to write in English and Japanese as a beginner.. If you have any ideas about the world, please contact me through：<a href="mailto:space@pku.org.cn">space@pku.org.cn</a></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Hello, Thanks for your finding here. I'm Shawn Huang. Currently studying urban planning in Tokyo. I will upload some of my learning, photography, or other ideas here. Chinese maybe the main language, but sometimes English and Japanese will also be used. If you have any ideas about the world, please contact me through：<a href="mailto:space@pku.org.cn">space@pku.org.cn</a></p>
+        <content type="html"><![CDATA[<p>Hello, Thanks for your finding here. I'm Shawn Huang, studying urban planning in Tokyo. I will upload some of my learning, photography, or other ideas here. Chinese maybe the main language, but I will also try to write in English and Japanese as a beginner.. If you have any ideas about the world, please contact me through：<a href="mailto:space@pku.org.cn">space@pku.org.cn</a></p>
 ]]></content>
     </entry>
     <entry>
